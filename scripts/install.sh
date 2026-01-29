@@ -6,7 +6,7 @@
 set -e
 
 # GitHub raw content base URL
-GITHUB_RAW_BASE="https://raw.githubusercontent.com/croustibat/zed-for-laravel/main"
+GITHUB_RAW_BASE="https://raw.githubusercontent.com/damarev/zed-for-laravel/main"
 
 echo "🚀 Zed for Laravel - Installation Script"
 echo "=========================================="
